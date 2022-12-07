@@ -1,0 +1,20 @@
+usuario: 006
+
+Hemoglobina - Sangre roja
+Hematíes: 5.0 (x10^6/µl) (4.3 - 5.6)
+Hemoglobina: 15.2 (g/dl) (13.7 - 16.5)
+Hematocrito: 46.3 (%) (40 - 50)
+
+Hemoglobina -Sangre blanca
+Leucocitos: 7.6 (x10^3/µl) (3.9 - 9.5)
+% neutrófilos: 55.3 (%) (37 - 68)
+% linfocitos: 36.4 (%) (21 - 50)
+% monocitos: 7.8 (%) (5.1 - 11.2)
+% eosinófilos: 3.5 (%) (0.4 - 6.6)
+% basófilos: 0.7 (%) (0.2 - 1.3)
+
+Hemograma - Serie plaquetaria
+Plaquetas: 260 (x10^3/µl) (150 - 410)
+Volumen plaquetar medio (VPM): 8.6 (fl) (9.7 - 13.2)
+Glucosa suero: 88 (mg/dl) (74 - 109)
+Creatinina suero: 0.9 (mg/dl) (0.7 - 1.2)
